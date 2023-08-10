@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ma Photo GitHub</title>
+</head>
+<body>
+    <h1>Voici ma photo depuis GitHub</h1>
+    <a href="https://github.com/taou86/willbeok.github.io/blob/adb52af90ff38ac89e3551590e167ae42a99e715/it%20will%20be%20ok.jpeg?raw=true"><img src="LIEN_DIRECT_VERS_L_IMAGE" alt="Ma Photo"></a>
+</body>
+</html>
